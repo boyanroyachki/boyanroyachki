@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Boyan Royachki</h1>
-<h3 align="center">A passionate backend from Sofia, Bulgaria.</h3>
+<h3 align="center">A passionate backend dev from Sofia, Bulgaria.</h3>
 
 - 🔭 I’m currently working on [Tracian Haven, a broker agency system.](NDA)
 
